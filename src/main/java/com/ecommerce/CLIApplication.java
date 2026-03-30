@@ -34,12 +34,12 @@ public class CLIApplication {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String currentUserId = "user123";
+        String currentUserId = "shakeer123";
         String activeCouponCode = null;
 
-        System.out.println("***************************");
+        System.out.println("*****************---------------------****************");
         System.out.println("   E-Commerce Distributed Backend Simulator      ");
-        System.out.println("**************************************************");
+        System.out.println("*****************----------------------***************");
 
         boolean running = true;
         while (running) {
