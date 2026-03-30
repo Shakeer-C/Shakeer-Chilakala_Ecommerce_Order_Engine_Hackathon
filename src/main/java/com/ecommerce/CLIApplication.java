@@ -37,7 +37,7 @@ public class CLIApplication {
         String currentUserId = "user123";
         String activeCouponCode = null;
 
-        System.out.println("**************************************************");
+        System.out.println("***************************");
         System.out.println("   E-Commerce Distributed Backend Simulator      ");
         System.out.println("**************************************************");
 
